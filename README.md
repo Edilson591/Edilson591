@@ -1,5 +1,5 @@
-### Hi there 👋
-# Edilson Luciano dos Santos 
+
+# ### Oi meu nome é Edilson Luciano 👋
 
 Atualmente Estou em transição de carreira, trabalho como técnico em radiologia, 
 porém sempre fui apaixonado por tecnologia, então comecei a estudar progrmação,
