@@ -22,7 +22,7 @@ iniciando assim minha jornada nesse mundo maravilhoso.
 <br>
 
 ### Minha contibuições 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=edilson591&repo=card-game-harry-potter&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Edilson591/Calculator_Windows))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=edilson591&repo=Calculator_Windows&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Edilson591/Calculator_Windows))
 
 ### Habilidades 
 <img align="center" alt="Edilson-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
