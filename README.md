@@ -1,9 +1,7 @@
 
 # ### Oi, meu nome é Edilson Luciano 👋
 
-Atualmente Estou em transição de carreira, trabalho como técnico em radiologia, 
-porém sempre fui apaixonado por tecnologia, então comecei a estudar progrmação,
-iniciando assim minha jornada nesse mundo maravilhoso.
+Estou em transição de carreira, buscando migrar da área de radiologia para a tecnologia, mais especificamente para o desenvolvimento front-end. Como tecnólogo em radiologia, desenvolvi habilidades de análise detalhada, atenção aos procedimentos e capacidade de lidar com dados complexos. Agora, busco aplicar essas habilidades em um contexto de desenvolvimento web, onde pretendo utilizar minha criatividade e minha capacidade de resolver problemas para criar interfaces intuitivas e atraentes para os usuários. Estou comprometido em aprender continuamente, adquirir novas habilidades em programação e design, e contribuir de forma significativa para equipes de desenvolvimento front-end, ajudando a criar experiências digitais de alta qualidade.
 
 ### Meus perfis
 
