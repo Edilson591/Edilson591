@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=35&pause=1000&color=0B2531&multiline=true&random=false&width=435&lines=Ol%C3%A1+sou+o+Edilson+Luciano+!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=35&pause=1000&color=0B2531&multiline=true&random=false&width=435&lines=Ol%C3%A1+,+sou+o+Edilson+Luciano+!+👋)](https://git.io/typing-svg)
 
 Estou em transição de carreira, buscando migrar da área de radiologia para a tecnologia, mais especificamente para o desenvolvimento front-end. Como tecnólogo em radiologia, desenvolvi habilidades de análise detalhada, atenção aos procedimentos e capacidade de lidar com dados complexos. Agora, busco aplicar essas habilidades em um contexto de desenvolvimento web, onde pretendo utilizar minha criatividade e minha capacidade de resolver problemas para criar interfaces intuitivas e atraentes para os usuários. Estou comprometido em aprender continuamente, adquirir novas habilidades em programação e design, e contribuir de forma significativa para equipes de desenvolvimento front-end, ajudando a criar experiências digitais de alta qualidade.
 
