@@ -10,7 +10,7 @@ Estou em transição de carreira, buscando migrar da área de radiologia para a 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/edilson-luciano-0b59b3289/)
 
 ### Habilidades 
-<div align="left">
+<div align="left" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -29,7 +29,7 @@ Estou em transição de carreira, buscando migrar da área de radiologia para a 
 </div>
 
 ### Minha contibuições 
-<div align="left">
+<div align="left" style="display: flex">
   
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=edilson591&repo=landing-page-bootstrap&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Edilson591/landing-page-bootstrap)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=edilson591&repo=Calculator_Windows&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Edilson591/Calculator_Windows))
