@@ -29,8 +29,9 @@ Estou em transição de carreira, buscando migrar da área de radiologia para a 
 </div>
 
 ### Minha contibuições 
-<div align="center" style="display: flex">
-  
+<div align="left" style="display: flex flex-direction: row; flex-wrap: nowrap;" >
+
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=edilson591&repo=landing-page-bootstrap&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Edilson591/landing-page-bootstrap)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=edilson591&repo=Calculator_Windows&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Edilson591/Calculator_Windows))
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=edilson591&repo=exemplo-site-com-responsividade&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Edilson591/exemplo-site-com-responsividade)
